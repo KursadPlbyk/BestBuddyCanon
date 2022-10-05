@@ -10,7 +10,7 @@ Entwirf ein Tool, dass dich unterwegs bei deinen Aufnahmen unterstützt, das Feh
 Mit Hilfe des ML Kit von Google ist es uns gelungen innerhalb von 24 Stunden eine App zu entwickeln, die den Fotograf in drei Modi untsertützt. 
 Im Porträt-Modus wird das Gesicht erkannt und die Entfernung zum Objekt abgeschätzt. Der Nutzer wird so hingewiesen, dass das Gesicht den Großteil des Fotos einnimmt, aber keine Teile des Gesichts abgeschnitten werden. 
 
-<img src="./img/portrait_mode.jpg"/>
+<img src="./img/portrait_mode.jpg" width="200px"/>
 
 Für Ganzkörperbilder erkennt der Best Buddy die Pose und weist den Fotograf hin, falls der ganze Körper von Kopf bis Fuß nicht auf dem Foto ist. Des weiteren wird zur Besserung der Bildgestaltung erkannt, ob die Komposition der "Rule of Thirds" entspricht. 
 
