@@ -14,4 +14,4 @@ Im Porträt-Modus wird das Gesicht erkannt und die Entfernung zum Objekt abgesch
 
 Für Ganzkörperbilder erkennt der Best Buddy die Pose und weist den Fotograf hin, falls der ganze Körper von Kopf bis Fuß nicht auf dem Foto ist. Des weiteren wird zur Besserung der Bildgestaltung erkannt, ob die Komposition der "Rule of Thirds" entspricht. 
 
-<img src="./img/pose_mode.jpg"/>
+<img src="./img/pose_mode.jpg" width="600px"/>
